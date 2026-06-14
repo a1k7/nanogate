@@ -1,0 +1,14 @@
+/Users/akhileshwarik/nanogate/target/release/deps/serde-f84b5cd10a1903af.d: /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/akhileshwarik/nanogate/target/release/build/serde-d376beca803858e2/out/private.rs
+
+/Users/akhileshwarik/nanogate/target/release/deps/libserde-f84b5cd10a1903af.rlib: /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/akhileshwarik/nanogate/target/release/build/serde-d376beca803858e2/out/private.rs
+
+/Users/akhileshwarik/nanogate/target/release/deps/libserde-f84b5cd10a1903af.rmeta: /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/akhileshwarik/nanogate/target/release/build/serde-d376beca803858e2/out/private.rs
+
+/Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/akhileshwarik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/akhileshwarik/nanogate/target/release/build/serde-d376beca803858e2/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/akhileshwarik/nanogate/target/release/build/serde-d376beca803858e2/out
