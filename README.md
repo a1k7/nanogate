@@ -83,20 +83,30 @@ Run:
 
 bash
 cargo test --release
-📦 Commercial Licensing
+## 💼 Commercial Licensing
 
-Nanogate is open source under MIT/Apache‑2.0 for non‑commercial and internal use.
-For embedding Nanogate inside proprietary agent runtimes or commercial products, a commercial license is required.
+Nanogate is open source under **MIT / Apache‑2.0** for non‑commercial and internal use.
 
-Commercial license includes:
+For embedding Nanogate inside **proprietary agent runtimes**, **commercial products**, or **high‑frequency trading / real‑time robotics** environments, a commercial license is required.
 
-Perpetual use in one proprietary product
-Email support for one year
-Right to modify and redistribute as part of your product (not as a standalone library)
-Pricing:
+### Commercial License Includes:
+- ✅ Perpetual use in one proprietary product
+- ✅ Email support for 12 months
+- ✅ Right to modify and redistribute as part of your product (not as a standalone library)
 
-$5,000 one‑time fee (per product)
-Annual support renewal: $1,000
+### Pricing
+| Type | Fee |
+|------|-----|
+| One‑time perpetual license | $5,000 (per product) |
+| Annual support renewal | $1,000 (optional) |
+
+### Consulting & Audits
+- **Governance Flight Recorder Audit** – run our verifier on your agent traces, get a report with score, drift detection, and recommendations.  
+  *Fixed fee: $3,000 – $5,000 per engagement.*
+
+
+
+*All open‑source contributions remain MIT/Apache‑2.0. The commercial license only applies to embedding the core gate inside proprietary systems.*
 Contact: warikakhilesh319@gmail.com for a quote.
 
 🔗 Related Projects
